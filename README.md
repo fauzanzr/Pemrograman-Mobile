@@ -1,6 +1,14 @@
 # helloword
 
-A new Flutter project.
+Project Pemrogramman Mobile
+
+Nama Kelompok :
+Dikky Rahmad Shafara
+Fauzan Zulfa Ramadhan
+Rivaldito Ilham Pratama
+
+
+
 
 ## Getting Started
 
