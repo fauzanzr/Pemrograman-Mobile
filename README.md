@@ -1,10 +1,13 @@
 # helloword
 
 Project Pemrogramman Mobile
+Kelompok 6
 
 Nama Kelompok :
 Dikky Rahmad Shafara
+
 Fauzan Zulfa Ramadhan
+
 Rivaldito Ilham Pratama
 
 
